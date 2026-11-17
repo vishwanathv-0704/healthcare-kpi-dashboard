@@ -1,0 +1,8 @@
+pandas
+numpy
+Faker
+SQLAlchemy
+PyMySQL
+streamlit
+plotly
+python-dotenv
